@@ -4,3 +4,9 @@
   sudo apt-add-repository ppa:ansible/ansible && \
   sudo apt-get update && \
  sudo apt-get install ansible
+ 
+ 
+ 
+ example :
+  https://code-maven.com/install-and-configure-nginx-using-ansible
+
